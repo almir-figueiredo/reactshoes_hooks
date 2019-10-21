@@ -1,8 +1,26 @@
 Do:
 yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
 
+do:
+yarn eslint --init
+choose
+- To check syntax, find problems, and enforce code style;
+- JavaScript modules (import/export);
+- React;
+- N (if that question apears: Does your project use TypeScript? (y/N));
+- Browser;
+- Use a popular style guide;
+- Airbnb (https://github.com/airbnb/javascript);
+- JavaScript;
+- Y
+
 Delete package-lock.json
+
+create .editorconfig
 
 do: yarn
 
-Copy and paste the commands if necessary.
+Copy and paste the commands of theses files:
+.eslintcr
+.prettiercr
+.editorconfig
