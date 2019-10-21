@@ -20,7 +20,13 @@ create .editorconfig
 
 do: yarn
 
-Copy and paste the commands of theses files:
+- Keep only index.js inside of the folder "public";
+- keep only index.js and app.js inside of the folder "src";
+
+Copy from this repository and paste the commands of theses files:
 .eslintcr
 .prettiercr
 .editorconfig
+public/index.js
+src/index.js
+src/app.js
