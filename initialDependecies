@@ -1,0 +1,8 @@
+Do:
+yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+Delete package-lock.json
+
+do: yarn
+
+Copy and paste the commands if necessary.
